@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Test", "bf-pixel", [123, 214, 246]]
+	],
+
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Test",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
